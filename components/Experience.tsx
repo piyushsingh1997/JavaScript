@@ -66,7 +66,7 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            RactBD
+            Deep Blue
           </li>
           <li
             onClick={handleGoogle}
@@ -76,7 +76,7 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            Google
+            Aragon Partners
           </li>
           <li
             onClick={handleApple}
@@ -86,27 +86,7 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            Apple
-          </li>
-          <li
-            onClick={handleSplash}
-            className={`${
-              workSplash
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Splash
-          </li>
-          <li
-            onClick={handleAmazon}
-            className={`${
-              workAmazon
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Amazon
+            Urbe.eth community
           </li>
         </ul>
         {workReactbd && <ReactBD />}

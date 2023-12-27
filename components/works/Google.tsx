@@ -9,36 +9,33 @@ const Google = () => {
       className="w-full"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
-        Web Developer
-        <span className="text-textGreen tracking-wide">@Google</span>
+        Software Engineer
+        {/* <span className="text-textGreen tracking-wide">@Google</span> */}
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
-        Jan 2022 - Dec 2023
+        Sep 2022 - Feb 2023
       </p>
       <ul className="mt-6 flex flex-col gap-3">
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-          distinctio doloribus quas ex ea sed.
+          Involved in backend responsibilities, working with Microsoft SQL Server for effective
+          data management and excels for reports        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Responsible for development & modifications of business intelligence solutions (web
+in terfaces, database functionalities, reporting) by programing in relational
+database Microsoft SQL server environment & in php using MVC framework
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio
-          sit adipisci ad exercitationem a amet cum porro recusandae eveniet,
-          accusantium animi tenetur rerum, culpa quibusdam! Consectetur
-          laboriosam hic harum modi.
-        </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam et
-          corporis necessitatibus? Pariatur voluptas ad, at et hic deserunt
-          sequi?
+          Craft Excel reports for clients by designing procedures, functions, and queries to fetch data from MSSQL databases. 
+          Customize these reports using VBA scripting to meet the specific needs of each client. 
         </li>
       </ul>
     </motion.div>
