@@ -35,7 +35,7 @@ const Projects = () => {
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
               A booking mobile application for office people in which application allowed authorized users to reserve office rooms, 
-              cancel bookings and perform check-ins when they arrived at the office and see details of all the users who has booked or who hasn't. {" "}
+              cancel bookings and perform check-ins when they arrived at the office and see details of all the users who has booked or who has not booked. {" "}
               {/* <span className="text-textGreen">O-auth</span> and then make the
               purchage using <span className="text-textGreen">stripe</span>. */}
             </p>
