@@ -12,8 +12,8 @@ const Contact = () => {
       <h2 className="font-titleFont text-5xl font-semibold">Get In Touch</h2>
       <p className="max-w-[600px] text-center text-textDark">
       In addition to these, I have also been involved in various projects related to cybersecurity, cloud computing, blockchain 
-      and more during my masters degree.
-      Feel free to reach out to learn more about them. Thanks!
+      and more during my masters degree. I am looking for new opportunities.
+      Feel free to contact me. Thanks!
        </p>
 
       <a href="mailto:piyushs7280@gmail.com">

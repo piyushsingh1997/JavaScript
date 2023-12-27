@@ -15,7 +15,7 @@ const About = () => {
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
             Hello! My name is Piyush Singh and I came to Rome, Italy in 2020 to pursue my Masters degree in Computer Engineering after finishing my Bachelors in information technology
-            from India. I enjoy working in computer science areas. My interest is in web development and mobile development and other computer science fields depending upon needs and requirements
+            from India. I enjoy working in computer science areas. My interest is in web development and mobile development and other computer science fields depending upon needs and requirements.
           </p>
           <p>
           Fast forward to the present, I am privileged to be a part of two companies where I worked in their Tech Team. This experience has been instrumental in acquiring extensive knowledge and skills in my field.{" "}
