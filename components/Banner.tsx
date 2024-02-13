@@ -31,13 +31,12 @@ const Banner = () => {
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
       I graduated from Sapienza University of Rome in October 2023 with a Masters degree in Engineering in computer science.
-       I have been working in Rome, Italy for almost two years in Tech department of companies.
-        <a href="https://www.noormohammad.live/" target="_blank">
+        {/* <a href="https://www.noormohammad.live/" target="_blank">
           {" "}
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
             <span className="absolute w-full h-[1px] bg-textGreen left-0 bottom-1 -translate-x-[110%] group-hover:translate-x-0 transition-transform duration-500"></span>
           </span>
-        </a>
+        </a> */}
       </motion.p>
     </section>
   );
