@@ -11,10 +11,9 @@ const Contact = () => {
       </p>
       <h2 className="font-titleFont text-5xl font-semibold">Get In Touch</h2>
       <p className="max-w-[600px] text-center text-textDark">
-      In addition to these, I have also been involved in various projects related to cybersecurity, cloud computing, blockchain 
-      and more during my masters degree. I am looking for new opportunities.
-      Feel free to contact me. Thanks!
-       </p>
+        I'm actively seeking new opportunities. My inbox is always open, if you have any query or would like to discuss something.
+        Feel free to reach out to me. Thanks!
+      </p>
 
       <a href="mailto:piyushs7280@gmail.com">
         <button className="w-40 h-14 border border-textGreen mt-6 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300">

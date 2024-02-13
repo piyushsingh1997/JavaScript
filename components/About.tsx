@@ -18,7 +18,8 @@ const About = () => {
             from India. I enjoy working in computer science areas. My interest is in web development and mobile development and other computer science fields depending upon needs and requirements.
           </p>
           <p>
-          Fast forward to the present, I am privileged to be a part of two companies where I worked in their Tech Team. This experience has been instrumental in acquiring extensive knowledge and skills in my field.{" "}
+          Fast forward to the present, I have been working in the tech industry, specializing in web and mobile application development. This experience has been 
+          instrumental in acquiring extensive knowledge and skills in my field.{" "}
           </p>
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
@@ -50,37 +51,39 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Firebase
+              NOSQL database
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Cloud Computing
+              SQL database              
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-             Microsoft SQL server              
+              Angular  
+
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-               NOSQL
+               Express.js
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-               NextJS (Ongoing)
+               MERN Stack
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-             Other Computer Science field            
+              PHP(zend framework)
+          
               </li>
           </ul>
         </div>

@@ -115,16 +115,22 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Web development</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-            I enriched the frontend design by seamlessly integrating additional content, ensuring a dynamic 
-            and engaging user experience. Employing HTML, CSS, JavaScript, and React, 
-            I enhanced the website features and information, contributing to a more comprehensive and visually appealing interface for users.
+             Lately, I've been involved in building web apps with the MERN stack. We use React.js for making the website interactive and user-friendly.
+             Node.js takes care of the behind-the-scenes work on the server, making sure everything runs smoothly. 
+             Express.js makes it easy to handle various tasks on the server side efficiently and MongoDB serves as our flexible database, 
+             where we can store and retrieve data as needed. Together, these technologies help us create powerful and dynamic web applications.
+
+
+
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>JavaScript</li>
               <li>React.JS</li>
-              <li>NodeJS</li>
-              <li>HTML & CSS</li>
-              <li>TypeScript(on going)</li>
+              <li>Node.JS</li>
+              <li>Express.js</li>
+              <li>MongoDB</li>
+              <li>BoostrapCSS</li>
+              <li>TailwindCSS</li>
+
             </ul>   
           </div>
         </div>

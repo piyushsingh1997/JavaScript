@@ -20,22 +20,21 @@ const Google = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Involved in backend responsibilities, working with Microsoft SQL Server for effective
-          data management and excels for reports        </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Responsible for development & modifications of business intelligence solutions (web
-in terfaces, database functionalities, reporting) by programing in relational
-database Microsoft SQL server environment & in php using MVC framework
+          Responsible for development & modifications of business intelligence solutions (web interfaces,
+          database, reporting) by programing in Microsoft SQL server & zend framework(PHP).
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Craft Excel reports for clients by designing procedures, functions, and queries to fetch data from MSSQL databases. 
-          Customize these reports using VBA scripting to meet the specific needs of each client. 
+          I improved the user interface of the "Filler" website by integrating new functionalities and enhancing existing ones. 
+          This was achieved through the utilization of Microsoft SQL Server(backend) and PHP(frontend).
+        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Created excel reports for clients by designing procedures, functions and queries that fetches data from MSSQL databases.
         </li>
       </ul>
     </motion.div>
