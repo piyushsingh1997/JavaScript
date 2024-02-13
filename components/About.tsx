@@ -14,7 +14,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Piyush Singh and I came to Rome, Italy in 2020 to pursue my Masters degree in Computer Engineering after finishing my Bachelors in information technology
+            Hello! I came to Rome, Italy in 2020 to pursue my Masters degree in Computer Engineering after finishing my Bachelors in information technology
             from India. I enjoy working in computer science areas. My interest is in web development and mobile development and other computer science fields depending upon needs and requirements.
           </p>
           <p>
